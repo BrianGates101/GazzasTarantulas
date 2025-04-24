@@ -1,5 +1,9 @@
 # GazzasTarantulas
 
+## Links
+
+Github pages : https://briangates101.github.io/GazzasTarantulas/
+
 ## Description
 
 `GazzasTarantulas` is a project for a e-commerce website. This will allow users to view and purchase spiders and other sipider like products from a local supplier in their area.
