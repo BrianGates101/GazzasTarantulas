@@ -14,5 +14,6 @@
 
 2. Running the webserver:
     ```sh
-    tba
+    npm run build
+    npm run dev
     ```
